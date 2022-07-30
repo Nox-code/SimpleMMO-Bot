@@ -24,7 +24,6 @@ You will need to ensure you have the following installed/set up:
 
 -Python 3 (Program was written & debugged with Python 3.8.3 so I'd recommend updating.
 -Selenium which is easily installed by running:
-Code:
 pip3 install selenium
 -Google Chrome/Chromium web browser
 -Chromedriver (Needs to be the specific version compatiable with your version of Google Chrome/Chromium browser. You can find this and details of installation at https://chromedriver.chromium.org/do...sion-selection)
