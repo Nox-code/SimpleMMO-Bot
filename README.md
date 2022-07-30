@@ -1,6 +1,8 @@
 # SimpleMMO-Bot
 Python &amp; Selenium bot for the web based MMO SimpleMMO
 
+[This is outdated and is available to demonstrate my abilities.]
+
 Simple MMO Bot v1
 -----------------
 
